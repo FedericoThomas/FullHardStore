@@ -1,0 +1,29 @@
+.navbar{
+    background-color:white;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+    justify-items: center;
+    background-size: 1000px;
+}
+
+.Logo{
+    width:300px;
+    padding:70px;
+}
+
+
+
+
+.secciones{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+}
+
+.link{
+    margin-left: 100px;
+    margin-right: 100px;
+}
